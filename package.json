@@ -26,10 +26,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^22.1.0",
-    "@vitest/coverage-v8": "^2.0.5",
-    "concurrently": "^9.0.1",
     "dotenv": "^16.4.5",
-    "npm-watch": "^0.13.0",
     "thirdweb": "^5.32.3",
     "tsup": "^8.2.4",
     "tsx": "^4.7.1",
